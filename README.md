@@ -9,7 +9,7 @@ For more information check out my [portfolio](https://ildervelez.netlify.app/).
 ## Contact Me
 
 <section>
-  <a href="https://www.linkedin.com/in/ilder-velez/" style="color: #fff;">
+  <a href="https://www.linkedin.com/in/ilder-velez/">
     <img src="images/linkedin.svg" alt="LinkedIn" width="30" style="color: #6C63FF;">
   </a>
   <a href="https://twitter.com/velezilder">
@@ -19,7 +19,7 @@ For more information check out my [portfolio](https://ildervelez.netlify.app/).
 
 ## Projects
 
-<table>
+<table style="border: none;">
   <tr>
     <td>
       <img src="images/fix-your-posture.gif" alt="fix your posture preview">
