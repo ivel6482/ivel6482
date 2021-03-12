@@ -21,7 +21,7 @@ For more information check out my [portfolio](https://ildervelez.netlify.app/).
 
 <table style="border: none;">
   <tr>
-    <td>
+    <td style="border: none;">
       <img src="images/fix-your-posture.gif" alt="fix your posture preview">
       <h2>Fix Your Posture</h2>
       <p>Fix Your Posture is a simple timer for desktops to remind you via notification to check your posture built using Electron and Vanilla Javascript and CSS</p>
