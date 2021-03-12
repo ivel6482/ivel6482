@@ -8,14 +8,14 @@ For more information check out my [portfolio](https://ildervelez.netlify.app/).
 
 ## Contact Me
 
-<section>
-  <a href="https://www.linkedin.com/in/ilder-velez/">
-    <img src="images/linkedin.svg" alt="LinkedIn" width="30" style="color: #6C63FF;">
+<p > 
+  <a href="https://www.linkedin.com/in/ilder-velez/" style="color: #6C63FF;">
+    LinkedIn
   </a>
-  <a href="https://twitter.com/velezilder">
-    <img src="images/twitter.svg" alt="Twitter" width="30" style="margin-left: 10px;">
+  <a href="https://twitter.com/velezilder" style="color: #6C63FF;">
+    Twitter
   </a>
-</section>
+</p>
 
 ## Projects
 
