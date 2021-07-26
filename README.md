@@ -22,7 +22,7 @@ For more information check out my [portfolio](https://ildervelez.netlify.app/).
     <td style="border: none; width: 50%;">
       <h2>Fade</h2>
       <img src="images/fade.gif" alt="fade preview">
-      <p>Fade is a fullstack web application that barbers can use to post and manage their appointments and their customers can book them. Fade is a fullstack application built using Node.js, Express, MongoDB, Mongoose, JsonWebToken, React and Tailwind</p>
+      <p>Fade is a fullstack web application that barbers can use to post and manage their appointments and their customers can book them. Fade was built using Node.js, Express, MongoDB, Mongoose, JsonWebToken, React and Tailwind</p>
       <ul>
         <li>
           Admin
